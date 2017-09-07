@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="771.461"
+   width="1100.531"
    height="299.526"
-   viewBox="0 0 771.461 299.526"
+   viewBox="0 0 1100.531 299.526"
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92+devel unknown"
-   sodipodi:docname="ritinlug-logo_v4.svg"
+   sodipodi:docname="new-logo.svg"
    enable-background="new"
    inkscape:export-filename="/home/akshay/Documents/design/ritinlug/output/v4/logo3.png"
    inkscape:export-xdpi="300"
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="568.59602"
-     inkscape:cy="-10.2979"
+     inkscape:cx="525.06337"
+     inkscape:cy="33.505177"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
@@ -589,7 +589,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
